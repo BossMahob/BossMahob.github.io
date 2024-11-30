@@ -1,5 +1,5 @@
 # BossMahob.github.io
-- Sorasit
+- Sorasit Panyang
   - Boss
 
 ![UserImage](NisitProfile.jpeg)
