@@ -2,6 +2,6 @@
 - Sorasit
   - Boss
 
-![UserImage](NisitProfile.jpg)
+![UserImage](NisitProfile.jepg)
 
 [AUTHENTICATION](authentication)  
