@@ -4,4 +4,4 @@
 
 ![UserImage](NisitProfile.jpeg)
 
-[Internet Control Message Protocol](icmp.md)  
+[Internet Control Message Protocol](icmp)  
