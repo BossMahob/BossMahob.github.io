@@ -2,6 +2,6 @@
 - Sorasit Panyang
   - Boss
 
-![UserImage](images/NisitProfile)
+![UserImage](images/NisitProfile.jpg)
 
 [Internet Control Message Protocol](icmp)  
