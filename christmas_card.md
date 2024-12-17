@@ -1,2 +1,2 @@
-![Chistmas E-Card](/images/Christmas E-card.png)
+![Chistmas E-Card](/images/ChristmasCard.png)
 Tool Used: [Steganagraphy Online](https://stylesuxx.github.io/steganography/)
