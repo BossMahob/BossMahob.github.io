@@ -3,6 +3,7 @@
 - Completeness refers to the degree to which all required data is present.
 
   [by Pragmaticinstitute](https://www.pragmaticinstitute.com/resources/articles/data/6-dimensions-to-measure-data-quality-in-your-company/)
+  
 ## Meaning by ChatGPT
 - ระดับที่ข้อมูลทั้งหมดที่จำเป็นมีอยู่ครบถ้วนในชุดข้อมูลนั้น ๆ กล่าวอีกนัยหนึ่งคือ การที่ข้อมูลทุกฟิลด์ที่ต้องการในการวิเคราะห์หรือการตัดสินใจมีการกรอกข้อมูลครบถ้วน ไม่มีข้อมูลขาดหายไป
 ## Meaning by Gemeni
