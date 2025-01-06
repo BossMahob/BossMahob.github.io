@@ -12,12 +12,12 @@
 - [Data Quality (Completeness)](completeness.md)
 
 # Projects
-- [Transport Statistics Dashboard]
+- [Transport Statistics Dashboard](https://public.tableau.com/app/profile/sorasit.panyang/viz/TransportStatisticsDashboard/Dashboard#1)
 
-- [Product Display Website]
+- [Product Display Website]()
 
-- [Prototype of an Accommodation Booking Website]
+- [Prototype of an Accommodation Booking Website]()
 
-- [Tourism Analytics Visualization]
+- [Tourism Analytics Visualization]()
 
-- [Data Flow Diagram for a Booking Website]
+- [Data Flow Diagram for a Booking Website]()
