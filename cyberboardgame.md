@@ -14,3 +14,7 @@
 ![Atmosphere3](images/cyber1.png)
 
 ![Atmosphere4](images/cyber3.png)
+
+
+# สมาชิก
+![6530200525 นายสิทธิกร ประทุมวัน](https://github.com/6530200525/6530200525.github.io/blob/main/boardgame.md?plain=1)
