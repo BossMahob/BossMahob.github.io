@@ -18,3 +18,5 @@
 
 # สมาชิก
 [6530200525 นายสิทธิกร ประทุมวัน](https://6530200525.github.io/boardgame)
+
+[6530200088 นายชลสิทธิ์ กิจกุลพิเชฐ](https://markchonlasit.github.io/chonlasitK.github.io/boardgame)
