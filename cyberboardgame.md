@@ -17,4 +17,4 @@
 
 
 # สมาชิก
-[6530200525 นายสิทธิกร ประทุมวัน](https://github.com/6530200525/6530200525.github.io/blob/main/boardgame)
+[6530200525 นายสิทธิกร ประทุมวัน](https://6530200525.github.io/boardgame)
