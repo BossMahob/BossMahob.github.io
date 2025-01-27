@@ -4,7 +4,7 @@
 - Location: หมู่บ้านปรีชา
 
 
-
+![scpic](images/lekdudwindow.jpg)
 
 
 <h3>Control Function: Preventative Control</h3>
