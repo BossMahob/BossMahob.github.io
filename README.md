@@ -13,7 +13,7 @@
   
 - [Cyber Board Game](cyberboardgame.md)
 
-- [Security Controls](security_control.md)
+- [Security Controls](security-control.md)
 
 # Projects
 - [Transport Statistics Dashboard](https://public.tableau.com/app/profile/sorasit.panyang/viz/TransportStatisticsDashboard/Dashboard#1)
