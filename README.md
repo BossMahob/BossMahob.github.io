@@ -10,7 +10,10 @@
 - [Christmas E-Card](christmas_card.md)
 
 - [Data Quality (Completeness)](completeness.md)
+  
 - [Cyber Board Game](cyberboardgame.md)
+
+- [Security Controls](security_control.md)
 
 # Projects
 - [Transport Statistics Dashboard](https://public.tableau.com/app/profile/sorasit.panyang/viz/TransportStatisticsDashboard/Dashboard#1)
